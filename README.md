@@ -2,3 +2,20 @@
 This is my hackpad! It is a musicpad, and it had 4 buttons to pause, replay, previous track, and next track, and a rotary encoder to control volume. It also has a OLED screen that will show the track title being played!
 
 ![Macropad CAD render](Screenshot%202025-12-25%20203108.png)
+
+I created this macropad so I could easily navigate through a playlist, without having to having to stop what I'm doing to go to spotify in my browser. Though I have experience in CAD, this was my first time using Kicad. Though it took some time and research, I was able to get my pcb done!
+
+BOM:
+4x Cherry MX Switches
+1x Seeed XIAO RP2040
+4x Blank DSA Keycaps
+1x EC11 Rotary Encoder
+4x Through-hole 1N4148 Diodes
+1x 0.91 inch OLED display
+4x SK6812 MINI-E RGB LEDs
+4x M3×16mm screws
+4x M3 heatset inserts (5mm × 4mm)
+
+Schematic            |  PCB         |   Case
+:-------------------------:|:-------------------------:|:-------------------------:|
+![image](https://github.com/user-attachments/assets/8ce0ab16-e0b0-42d0-b748-d4ee08ce5972)    |  ![image](https://github.com/user-attachments/assets/556275d9-b148-4d51-b6e8-0c6bf95b5a16)  | ![image](https://github.com/user-attachments/assets/bcfd98e1-e562-48c3-b617-4d55031ebec4)
