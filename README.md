@@ -1,7 +1,7 @@
 # fajrs-hackpad
 This is my hackpad! It is a musicpad, and it had 4 buttons to pause, replay, previous track, and next track, and a rotary encoder to control volume. It also has a OLED screen that will show the track title being played!
 
-![Macropad CAD render](Screenshot%202025-12-25%20203108.png)
+![Macropad CAD render]()
 
 I created this macropad so I could easily navigate through a playlist, without having to having to stop what I'm doing to go to spotify in my browser. Though I have experience in CAD, this was my first time using Kicad. Though it took some time and research, I was able to get my pcb done!
 
