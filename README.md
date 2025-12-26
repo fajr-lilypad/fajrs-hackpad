@@ -3,9 +3,10 @@ This is my hackpad! It is a musicpad, and it had 4 buttons to pause, replay, pre
 
 ![Macropad CAD render](images/Fully-Assembled.png)
 
-|-----------|-----------|
-| <img src="images/Screenshot%202025-12-25%20203416.png" width="45%"> | <img src="images/Screenshot%202025-12-26%20150048.png" width="45%"> |
-
+<p align="center">
+  <img src="images/Screenshot%202025-12-25%20203416.png" width="45%">
+  <img src="images/Screenshot%202025-12-26%20150048.png" width="45%">
+</p>
 
 
 
