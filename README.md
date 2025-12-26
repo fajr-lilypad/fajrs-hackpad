@@ -3,9 +3,12 @@ This is my hackpad! It is a musicpad, and it had 4 buttons to pause, replay, pre
 
 ![Macropad CAD render](images/Fully-Assembled.png)
 
+|-----------|-----------|
+| <img src="images/Screenshot%202025-12-25%20203416.png" width="45%"> | <img src="images/Screenshot%202025-12-26%20150048.png" width="45%"> |
+ |
 
-<img src="images/Screenshot%202025-12-25%20203416.png" width="45%">
-<img src="images/Screenshot%202025-12-26%20150048.png" width="45%">
+
+
 
 
 I created this macropad so I could easily navigate through a playlist, without having to having to stop what I'm doing to go to spotify in my browser. Though I have experience in CAD, this was my first time using Kicad. Though it took some time and research, I was able to get my pcb done!
