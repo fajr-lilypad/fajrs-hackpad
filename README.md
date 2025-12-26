@@ -18,4 +18,4 @@ BOM:
 
 Schematic            |  PCB         |   Case
 :-------------------------:|:-------------------------:|:-------------------------:|
-![image](Screenshot%202025-12-25%20202812.png)    |  ![image](https://github.com/user-attachments/assets/556275d9-b148-4d51-b6e8-0c6bf95b5a16)  | ![image](https://github.com/user-attachments/assets/bcfd98e1-e562-48c3-b617-4d55031ebec4)
+![image](Screenshot%202025-12-25%20202812.png)    |  ![image](Screenshot%202025-12-25%20202920.png)  | ![image](https://github.com/user-attachments/assets/bcfd98e1-e562-48c3-b617-4d55031ebec4)
